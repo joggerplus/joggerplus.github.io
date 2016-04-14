@@ -1,7 +1,7 @@
 ##blog
 ######友情提醒，博客不要fork，欢迎star及提交issue，转载请保留原文链接及作者署名。内容未经本人授权，禁止任何商业用途。
 
-这个是joggerplus 移动开发学习小组的团队博客，欢迎爱好者加入。
+这里是joggerplus 移动开发学习小组的团队博客，欢迎爱好者加入。
 
 
 文章版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
