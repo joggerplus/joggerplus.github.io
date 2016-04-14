@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+这个joggerplus 编程学习小组的团队博客，欢迎爱好者加入。
+
+
 文章版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
 ).
+
+copyright (c) 201 joggerplus.all rights reserved.
+
 
