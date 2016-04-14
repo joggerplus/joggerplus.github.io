@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Android项目使用Dagger2进行依赖注入"
+title:  "[译]Android项目使用Dagger2进行依赖注入"
 date:   2016-04-14  +0800
 categories:
 ---
 
+译文作者:[lihenair](https://github.com/lihenair)
 
+英文原文:http://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
 
 
 依赖注入是一种软件设计模式，致力于应用松耦合，可扩展性和可维护性。本教程中，将学到如何使用Dagger2进行依赖注入。
